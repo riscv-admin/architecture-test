@@ -2,7 +2,7 @@
 
 Arch-Test SIG
 -   Chair: Allen Baum
--   Vice Chair: Bill McSpadden
+-   Vice Chair: Neel Gala
  
 Repository Maintainers
 -   Bill McSpadden
